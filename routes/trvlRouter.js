@@ -13,7 +13,7 @@ router.get(['/','/main'], (req,res)=>{
 	// })
 
 	// 임시 데이터	
-	fs.readFile('./public/files/trvaMain.json', (err, data) => {
+	fs.readFile('./public/files/trvlMain.json', (err, data) => {
 		if(err) throw err
 
 		const contents = JSON.parse(data);
