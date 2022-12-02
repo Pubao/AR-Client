@@ -1,0 +1,384 @@
+{
+    "contents": {
+        "areaList": [
+            {
+                "code": "01",
+                "name": "서울"
+            },
+            {
+                "code": "02",
+                "name": "인천"
+            },
+            {
+                "code": "03",
+                "name": "대전"
+            },
+            {
+                "code": "04",
+                "name": "대구"
+            },
+            {
+                "code": "05",
+                "name": "광주"
+            },
+            {
+                "code": "06",
+                "name": "부산"
+            },
+            {
+                "code": "07",
+                "name": "울산"
+            },
+            {
+                "code": "08",
+                "name": "세종"
+            },
+            {
+                "code": "31",
+                "name": "경기"
+            },
+            {
+                "code": "32",
+                "name": "강원"
+            },
+            {
+                "code": "33",
+                "name": "충북"
+            },
+            {
+                "code": "34",
+                "name": "충남"
+            },
+            {
+                "code": "35",
+                "name": "경북"
+            },
+            {
+                "code": "36",
+                "name": "경남"
+            },
+            {
+                "code": "37",
+                "name": "전북"
+            },
+            {
+                "code": "38",
+                "name": "전남"
+            },
+            {
+                "code": "39",
+                "name": "제주"
+            }
+        ],
+        "mnthDstnList": [
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 509,
+                "trvl_dstn_name": "심플책방",
+                "trvl_dstn_thmb": "/v1669946275/travel/T509_0.jpg",
+                "trvl_dstn_ordr": 0
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 510,
+                "trvl_dstn_name": "장흥조각공원(양주시립장욱진미술관)",
+                "trvl_dstn_thmb": "/v1669946314/travel/T510_0.jpg",
+                "trvl_dstn_ordr": 1
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 511,
+                "trvl_dstn_name": "한라산 (제주도 국가지질공원)",
+                "trvl_dstn_thmb": "/v1669946337/travel/T511_0.jpg",
+                "trvl_dstn_ordr": 2
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 89,
+                "trvl_dstn_name": "이응노 미술관",
+                "trvl_dstn_thmb": "/v1667535554/travel/T89_0.jpg",
+                "trvl_dstn_ordr": 3
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 512,
+                "trvl_dstn_name": "발왕산 관광케이블카",
+                "trvl_dstn_thmb": "/v1669946389/travel/T512_0.bmp",
+                "trvl_dstn_ordr": 4
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 513,
+                "trvl_dstn_name": "환기미술관",
+                "trvl_dstn_thmb": "/v1669946409/travel/T513_0.jpg",
+                "trvl_dstn_ordr": 5
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 514,
+                "trvl_dstn_name": "서울 약령시장",
+                "trvl_dstn_thmb": "/v1669946414/travel/T514_0.jpg",
+                "trvl_dstn_ordr": 6
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 515,
+                "trvl_dstn_name": "강화 전등사",
+                "trvl_dstn_thmb": "/v1669946464/travel/T515_0.jpg",
+                "trvl_dstn_ordr": 7
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 516,
+                "trvl_dstn_name": "대둔산도립공원(전북)",
+                "trvl_dstn_thmb": "/v1669946688/travel/T516_0.jpg",
+                "trvl_dstn_ordr": 8
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 517,
+                "trvl_dstn_name": "포레스트 리솜 해브나인 스파 (해브나인 힐링스파)",
+                "trvl_dstn_thmb": "/v1669946733/travel/T517_0.jpg",
+                "trvl_dstn_ordr": 9
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 518,
+                "trvl_dstn_name": "국립세종수목원",
+                "trvl_dstn_thmb": "/v1669946777/travel/T518_0.jpg",
+                "trvl_dstn_ordr": 10
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 519,
+                "trvl_dstn_name": "교동도 대룡시장",
+                "trvl_dstn_thmb": "/v1669946824/travel/T519_0.jpg",
+                "trvl_dstn_ordr": 11
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 171,
+                "trvl_dstn_name": "간현관광지",
+                "trvl_dstn_thmb": "/v1667541433/travel/T171_0.jpg",
+                "trvl_dstn_ordr": 12
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 520,
+                "trvl_dstn_name": "덕적도 갈대 군락지",
+                "trvl_dstn_thmb": "/v1669946871/travel/T520_0.jpg",
+                "trvl_dstn_ordr": 13
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 521,
+                "trvl_dstn_name": "간절곶 소망길",
+                "trvl_dstn_thmb": "/v1669946946/travel/T521_0.jpg",
+                "trvl_dstn_ordr": 14
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 95,
+                "trvl_dstn_name": "태안 신두리 해안사구",
+                "trvl_dstn_thmb": "/v1667535850/travel/T95_0.jpg",
+                "trvl_dstn_ordr": 15
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 361,
+                "trvl_dstn_name": "롯데월드",
+                "trvl_dstn_thmb": "/v1667554301/travel/T361_0.jpg",
+                "trvl_dstn_ordr": 16
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 522,
+                "trvl_dstn_name": "퍼스트가든",
+                "trvl_dstn_thmb": "/v1669946953/travel/T522_0.bmp",
+                "trvl_dstn_ordr": 17
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 523,
+                "trvl_dstn_name": "상소동 산림욕장",
+                "trvl_dstn_thmb": "/v1669947093/travel/T523_0.jpg",
+                "trvl_dstn_ordr": 18
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 183,
+                "trvl_dstn_name": "송월동 동화마을",
+                "trvl_dstn_thmb": "/v1667541957/travel/T183_0.jpg",
+                "trvl_dstn_ordr": 19
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 524,
+                "trvl_dstn_name": "바람새마을 소풍정원",
+                "trvl_dstn_thmb": "/v1669947113/travel/T524_0.jpg",
+                "trvl_dstn_ordr": 20
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 525,
+                "trvl_dstn_name": "부여 가림성",
+                "trvl_dstn_thmb": "/v1669947149/travel/T525_0.jpg",
+                "trvl_dstn_ordr": 21
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 23,
+                "trvl_dstn_name": "화담숲",
+                "trvl_dstn_thmb": "/v1667525304/travel/T23_0.jpg",
+                "trvl_dstn_ordr": 22
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 24,
+                "trvl_dstn_name": "포천 산정호수",
+                "trvl_dstn_thmb": "/v1667525343/travel/T24_0.jpg",
+                "trvl_dstn_ordr": 23
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 25,
+                "trvl_dstn_name": "스타필드 하남",
+                "trvl_dstn_thmb": "/v1667525430/travel/T25_0.jpg",
+                "trvl_dstn_ordr": 24
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 26,
+                "trvl_dstn_name": "방화수류정(동북각루)",
+                "trvl_dstn_thmb": "/v1667525457/travel/T26_0.jpg",
+                "trvl_dstn_ordr": 25
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 27,
+                "trvl_dstn_name": "수종사",
+                "trvl_dstn_thmb": "/v1667525480/travel/T27_0.jpg",
+                "trvl_dstn_ordr": 26
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 28,
+                "trvl_dstn_name": "화성행궁",
+                "trvl_dstn_thmb": "/v1667525495/travel/T28_0.jpg",
+                "trvl_dstn_ordr": 27
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 29,
+                "trvl_dstn_name": "쁘띠프랑스",
+                "trvl_dstn_thmb": "/v1667525550/travel/T29_0.jpg",
+                "trvl_dstn_ordr": 28
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 30,
+                "trvl_dstn_name": "한택식물원",
+                "trvl_dstn_thmb": "/v1667525577/travel/T30_0.jpg",
+                "trvl_dstn_ordr": 29
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 31,
+                "trvl_dstn_name": "명성산",
+                "trvl_dstn_thmb": "/v1667525610/travel/T31_0.jpg",
+                "trvl_dstn_ordr": 30
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 32,
+                "trvl_dstn_name": "신륵사(여주)",
+                "trvl_dstn_thmb": "/v1667525633/travel/T32_0.jpg",
+                "trvl_dstn_ordr": 31
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 33,
+                "trvl_dstn_name": "일산호수공원",
+                "trvl_dstn_thmb": "/v1667525677/travel/T33_0.jpg",
+                "trvl_dstn_ordr": 32
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 34,
+                "trvl_dstn_name": "코끼리바위",
+                "trvl_dstn_thmb": "/v1667525709/travel/T34_0.jpg",
+                "trvl_dstn_ordr": 33
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 35,
+                "trvl_dstn_name": "관방제림",
+                "trvl_dstn_thmb": "/v1667525730/travel/T35_0.jpg",
+                "trvl_dstn_ordr": 34
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 36,
+                "trvl_dstn_name": "수성못 유원지",
+                "trvl_dstn_thmb": "/v1667525763/travel/T36_0.jpg",
+                "trvl_dstn_ordr": 35
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 37,
+                "trvl_dstn_name": "오대산 선재길",
+                "trvl_dstn_thmb": "/v1667525835/travel/T37_0.jpg",
+                "trvl_dstn_ordr": 36
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 38,
+                "trvl_dstn_name": "창덕궁과 후원 [유네스코 세계문화유산]",
+                "trvl_dstn_thmb": "/v1667525903/travel/T38_0.jpg",
+                "trvl_dstn_ordr": 37
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 39,
+                "trvl_dstn_name": "영남 알프스",
+                "trvl_dstn_thmb": "/v1667525965/travel/T39_0.jpg",
+                "trvl_dstn_ordr": 38
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 40,
+                "trvl_dstn_name": "곡교천 은행나무길",
+                "trvl_dstn_thmb": "/v1667525996/travel/T40_0.jpg",
+                "trvl_dstn_ordr": 39
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 41,
+                "trvl_dstn_name": "안반데기 마을",
+                "trvl_dstn_thmb": "/v1667526030/travel/T41_0.jpg",
+                "trvl_dstn_ordr": 40
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 42,
+                "trvl_dstn_name": "말티재 전망대(말티고개)",
+                "trvl_dstn_thmb": "/v1667526129/travel/T42_0.jpg",
+                "trvl_dstn_ordr": 41
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 43,
+                "trvl_dstn_name": "단양 보발재",
+                "trvl_dstn_thmb": "/v1667526153/travel/T43_0.jpg",
+                "trvl_dstn_ordr": 42
+            },
+            {
+                "mnth_trvl_dstn_id": "202212",
+                "trvl_dstn_id": 44,
+                "trvl_dstn_name": "담양 메타세쿼이아길",
+                "trvl_dstn_thmb": "/v1667526159/travel/T44_0.jpg",
+                "trvl_dstn_ordr": 43
+            }
+        ]
+    }
+}

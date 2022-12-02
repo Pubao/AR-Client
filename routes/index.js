@@ -2,11 +2,10 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 
-router.get('/', (req, res) => {
-	res.render('loan');
-});
+const trvl = require('./trvlRouter');
+router.use('/trvl', trvl);
 
-router.get('/loan', (req, res) => {
+router.get(['/', '/loan'], (req, res) => {
 	res.render('loan');
 });
 
